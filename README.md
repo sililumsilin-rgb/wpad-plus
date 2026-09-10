@@ -25,7 +25,7 @@ All notes stay in the browser's local extension storage. Wpad+ does not read web
 2. Extract the archive to a permanent folder.
 3. Open `chrome://extensions` in Google Chrome.
 4. Enable **Developer mode**.
-5. Click **Load unpacked** and select the extracted `TinyPadChrome` folder.
+5. Click **Load unpacked** and select the extracted `WpadPlusChrome` folder.
 6. Click the Wpad+ extension icon to open the notebook in the side panel.
 
 Chrome 114 or newer is required.
